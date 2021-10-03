@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-mealdb/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-mealdb/static/js/main.e21b3801.chunk.js",
+    "main.js.map": "/react-mealdb/static/js/main.e21b3801.chunk.js.map",
+    "runtime-main.js": "/react-mealdb/static/js/runtime-main.c74feb05.js",
+    "runtime-main.js.map": "/react-mealdb/static/js/runtime-main.c74feb05.js.map",
+    "static/js/2.6fe76d56.chunk.js": "/react-mealdb/static/js/2.6fe76d56.chunk.js",
+    "static/js/2.6fe76d56.chunk.js.map": "/react-mealdb/static/js/2.6fe76d56.chunk.js.map",
+    "static/js/3.6533a1ef.chunk.js": "/react-mealdb/static/js/3.6533a1ef.chunk.js",
+    "static/js/3.6533a1ef.chunk.js.map": "/react-mealdb/static/js/3.6533a1ef.chunk.js.map",
+    "index.html": "/react-mealdb/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-mealdb/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6fe76d56.chunk.js.LICENSE.txt": "/react-mealdb/static/js/2.6fe76d56.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-mealdb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c74feb05.js",
+    "static/js/2.6fe76d56.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e21b3801.chunk.js"
+  ]
+}
