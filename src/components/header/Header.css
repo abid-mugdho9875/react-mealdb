@@ -1,0 +1,12 @@
+.nav-style{
+    background-color: black;
+}
+.nav-style a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: larger;
+    color: white;
+}
+.nav-style a:hover{
+    background-color: aqua;
+}
